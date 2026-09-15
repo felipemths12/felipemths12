@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="1332280.jpeg" alt="Banner" width="100%" style="border-radius: 10px; max-height: 250px; object-fit: cover;"/>
+  <img src="1332280.jpeg" alt="Banner" width="50%" style="border-radius: 10px; max-height: 250px; object-fit: cover;"/>
   
   <br/><br/>
   
@@ -16,7 +16,7 @@
   <table width="100%" style="border: none;">
     <tr style="border: none;">
       <td width="30%" align="center" style="border: none;">
-        <img src="https://avatars.githubusercontent.com/u/61908851?v=4" width="200" style="border-radius: 10px;"/>
+        <img src="ddeef5dd4173a48e8f8d69272aa064ca.jpg" width="200" style="border-radius: 10px;"/>
       </td>
       <td width="70%" style="border: none;">
         <h3>hi there, i'm felipe ⚡</h3>
