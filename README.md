@@ -1,5 +1,4 @@
-<br/><br/>
-  
+<div align="center">
   <h2>Felipe Silva</h2>
   <p>Desenvolvedor Backend | Estudante de Ciência da Computação</p>
   
