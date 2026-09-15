@@ -16,11 +16,18 @@
       </td>
       <td width="70%" style="border: none;">
         <h3>hi there, i'm felipe ⚡</h3>
-        <p>Tenho 23 anos e sou movido pela vontade constante de entender como a tecnologia funciona nos bastidores. Como estudante de Ciência da Computação na UNIJORGE, descobri minha verdadeira paixão pelo desenvolvimento Backend. Meu foco está em construir arquiteturas escaláveis, APIs seguras e resolver problemas complexos com código limpo e eficiente. Adoro o desafio de transformar ideias abstratas em sistemas lógicos sólidos. Sou um desenvolvedor extremamente curioso, que valoriza a colaboração e está sempre em busca de novas ferramentas e conceitos para construir projetos que gerem impacto real.</p>
+        <p>Tenho 23 anos, sou estudante de Ciência da Computação na UNIJORGE e apaixonado por desenvolvimento Backend. Meu foco é construir APIs seguras, arquiteturas escaláveis e resolver problemas com código limpo. Sou movido por desafios lógicos, colaboração e pela busca constante de novas tecnologias para criar projetos de impacto.</p>
       </td>
       </td>
     </tr>
   </table>
+</div>
+
+<br/>
+
+div align="center">
+  <h3>🤝 Conexões</h3>
+  <p>Parceiro de código (e das jogatinas): <a href="https://github.com/Frogzinkkj"><b>@André</b></a></p>
 </div>
 
 <br/><br/>
