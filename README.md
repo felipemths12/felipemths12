@@ -25,7 +25,7 @@
 
 <br/>
 
-div align="center">
+<div align="center">
   <h3>🤝 Conexões</h3>
   <p>Parceiro de código (e das jogatinas): <a href="https://github.com/Frogzinkkj"><b>@André</b></a></p>
 </div>
