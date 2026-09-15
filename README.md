@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.alphacoders.com/133/thumb-350-1332280.webp" alt="Banner" width="100%" style="border-radius: 10px; max-height: 250px; object-fit: cover;"/>
+  <img src="1332280.jpeg" alt="Banner" width="100%" style="border-radius: 10px; max-height: 250px; object-fit: cover;"/>
   
   <br/><br/>
   
