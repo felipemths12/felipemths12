@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="1332280.jpeg" alt="Banner" width="25%" style="border-radius: 10px; max-height: 250px; object-fit: cover;"/>
-  
-  <br/><br/>
-  
   <h2>Felipe Silva</h2>
   <p>Desenvolvedor Backend | Estudante de Ciência da Computação</p>
   
